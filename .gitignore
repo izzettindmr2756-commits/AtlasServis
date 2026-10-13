@@ -1,0 +1,14 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+
+# Sanal ortam
+.venv/
+
+# Yerel veritabanı ve gizli bilgiler
+db.sqlite3
+.env
+
+# Yüklenen veya üretilen dosyalar
+media/
+staticfiles/
